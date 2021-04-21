@@ -1,1 +1,3 @@
-# nn4mc.github.io
+# nn4mc: 
+
+**Neural Netowrks for Microcontrollers** by Correll Lab, CU Boulder
