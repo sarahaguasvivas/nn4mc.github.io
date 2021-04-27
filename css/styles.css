@@ -10146,15 +10146,29 @@ img::-moz-selection {
 }
 
 header.masthead {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url(#header-video);
+  /*background-image: url(#header-video);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: cover;*/
+}
+
+video {
+  object-fit: fill;
+  /*width: 100vw;
+  height: 100vh;*/
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 #overlay {
