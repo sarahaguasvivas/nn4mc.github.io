@@ -10163,12 +10163,12 @@ header.masthead {
 }
 
 video {
-  object-fit: fill;
-  /*width: 100vw;
-  height: 100vh;*/
+  object-fit: none;
+  width: 100vw;
+  height: 100vh;
   position: absolute;
-  top: 0;
-  left: 0;
+  /*top: 0;
+  left: 0;*/
 }
 
 #overlay {
