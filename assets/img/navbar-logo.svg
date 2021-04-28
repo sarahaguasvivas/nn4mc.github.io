@@ -6,9 +6,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    height="2000"
-   width="7500"
+   width="7800"
    xml:space="preserve"
-   viewBox="0 0 7500 2000"
+   viewBox="0 0 7800 2000"
    y="0px"
    x="0px"
    id="Layer_1"
@@ -431,7 +431,7 @@
 </g>
 <g
    style="fill:#5dffff;fill-opacity:1"
-   transform="matrix(1.3460654,0,0,1.3460654,-541.33512,-319.5326)"
+   transform="matrix(1.3460654,0,0,1.3460654,-215.46615,-319.5326)"
    id="g86">
 	<path
    style="fill:#ffffff;fill-opacity:1"
