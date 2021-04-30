@@ -1,5 +1,5 @@
 {
-    "title": "Agency",
+    "title": "nn4mc",
     "name": "startbootstrap-agency",
     "version": "6.0.4",
     "scripts": {
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "nn4mc: Keras/ONNX to C++/C compiler.",
     "keywords": [
         "css",
         "sass",
